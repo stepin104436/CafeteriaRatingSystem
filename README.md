@@ -11,4 +11,3 @@ While giving ratings, it is highly recommended to give your real opinion because
 
 ![cppcheck-action](https://github.com/stepin104436/CafeteriaRatingSystem/workflows/cppcheck-action/badge.svg)
 
-Cafeteria Rating System
